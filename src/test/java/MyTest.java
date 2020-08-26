@@ -5,7 +5,5 @@ public class MyTest {
     @Test
     public void printHello (){
         System.out.println("hello");
-
     }
-
 }
